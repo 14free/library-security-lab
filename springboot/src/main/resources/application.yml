@@ -1,0 +1,14 @@
+server:
+  port: 8080
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/books?serverTimezone=GMT%2b8&useSSL=false&allowPublicKeyRetrieval=true #北京时间
+    username : root
+    password : your_password
+mybatis:
+  mapper-locations: classpath:mapper/*.xml
+  type-aliases-package: org.example.springboot.shujvku
+  configuration:
+    map-underscore-to-camel-case: true  # 开启下划线转驼峰映射

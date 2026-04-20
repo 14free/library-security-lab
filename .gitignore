@@ -1,0 +1,22 @@
+# 编译输出
+target/
+dist/
+*.jar
+*.war
+*.ear
+
+# 依赖包 (千万不要上传！)
+node_modules/
+
+# IDE 配置
+.idea/
+.vscode/
+*.iml
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 日志
+*.log
+npm-debug.log*

@@ -1,5 +1,9 @@
 # 📚 图书管理系统 - 安全漏洞测试靶场
-
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.7.6-brightgreen.svg)](https://spring.io/projects/spring-boot)
+[![Vue](https://img.shields.io/badge/Vue-2.x-42b883.svg)](https://vuejs.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-8.0-orange.svg)](https://www.mysql.com/)
+[![Security](https://img.shields.io/badge/Security-Educational%20Use%20Only-red.svg)]()
 > **⚠️ 警告：本项目仅用于安全学习与授权测试，严禁用于非法用途！**
 
 ## 📖 项目介绍
